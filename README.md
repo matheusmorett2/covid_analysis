@@ -2,7 +2,7 @@
 The intention of this project is to analyze some data about COVID-19 like lethality, propagation and affected countries
 
 ### Medium
-This project has a medium post: [LINK](https://medium.com/@matheusmorett/is-covid-19-the-most-worrying-of-the-century-45548d69d2ef)
+This project has a [Medium Post](https://medium.com/@matheusmorett/is-covid-19-the-most-worrying-of-the-century-45548d69d2ef)
 
 ### Dependencies
 This project was built using python with jupyter notebooks.
